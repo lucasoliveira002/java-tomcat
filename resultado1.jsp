@@ -9,7 +9,7 @@
 <body>
 	<%
     	String nome = request.getParameter("nome");
-    	Number hora = request.getParameter("hora");
+    	Integer hora = request.getParameter("hora");
     	if (nome != null &&  !nome.trim().isEmpty()) {
         	out.print("<h2>Bem-vindo, " + nome + "!</h2>");
         	if (hora >
