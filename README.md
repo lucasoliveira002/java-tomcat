@@ -1,2 +1,2 @@
-# java-tomcat
-atividades com java tomcat em sala
+# Java TomCat
+Nesse repositório estou guardando as atividades com uso de java tomcat que realizei 
